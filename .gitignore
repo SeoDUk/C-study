@@ -1,0 +1,15 @@
+# Windows 실행파일 (exe) 무시
+*.exe
+
+# 빌드 폴더(빌드 결과물 모아놓는 곳)
+build/
+bin/
+
+# VSCode 설정 폴더 무시
+.vscode/
+
+# macOS 쓰레기 파일 무시
+.DS_Store
+
+# Windows 시스템 파일 무시
+Thumbs.db
